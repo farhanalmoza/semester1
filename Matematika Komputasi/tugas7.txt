@@ -1,0 +1,14 @@
+koordinat kartesius dikatakan tersebut karena dikembangkan oleh orang yg bernama Rene Descartes.
+
+Grafik fungsi memiliki kaitan yang erat dengan bidang kartesius, sehingga ketika fungsi memiliki bentuk yang mudah diidentifikasi seperti linier, parabola, gelombang, parabola, dan bentuk 'S'.
+
+Kedua sumbu x dan y yang tegak lurus dibagi menjadi empat bagian yang disebut kuadran. Setiap bagian dapat diurutkan dengan cara berlawanan arah jarum jam dimulai dari kanan atas, yaitu kuadran I. 
+
+Setiap titik-titik yang ada pada bidang kartesius dapat dihubungkan dengan cara menarik garis luru dari satu titik ke titik yang lain dan bisa sampai merepresentasikan bentuk 2D. Luas dari poligon yang terbntuk dapat dihitung dengan rumus = 1/2[(x0 y1 − x1 y0) + (x1 y2 − x2 y1) + (x2 y3 − x3 y2) +
+(x3 y0 − x0 y3)]. dengan menghitung hasil perkalian x dengan y berikutnya, yang dikurangi x berikutnya dengan y sebelumnya. Untuk menentuka X dan Y mana yang lebih dulu, maka diurutkan berlawanan arah jarum jam, apabila searah, maka hasilnya akan negatif.
+
+Teorema Pythagoras dapat digunakan untuk menentukan jarak antara dua titik yang membentuk sisi miring. Untuk menentukan sisi datarnya dihitung dari jarak antara X1 dan X2, dan untuk sisi tegaknya dengan menghitun jarak Y1 dan Y2.
+
+untuk menentukan titik pada ruang kartesius 3D memerlukan 3 sumbu yaitu X, Y, dan Z. untuk menambahkan sumbu Z dapat menggunakan sistem aksian tangan kanan dan tangan kiri. ketiga sumbu tersebut saling tegak lurus. Penggunaan sistem pada paket grafis komputer komersial harus diperhatikan karena bisa menjadi masalah ketika memproyeksian titik 3D ke bidang 2D. penggunaan tangan kanan tidak digunakan untuk ruang 4 dimensi atau lebih.
+
+Dengan menggunakan sistem koordinat kartesius, bentuk-bentuk geometri dapat dipresentasikan dengan persamaan matematis. hingga saat ini koordinat cartesius banyak digunakan, salah satunya dalam bidang ilmu komputer seperti membuat dan menggerakkan objek atau animasi pada aplikasi, menentukan letak/titik berdirinya objek, serta jarak diantara objek-objek yang lain, dan banyak lagi lainnya.

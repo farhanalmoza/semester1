@@ -1,0 +1,7 @@
+Sistem koordinat, disebut juga koordinat kartesius karena Rene Descartes dianggap sebagai penemunya, padahal Pierre de Tancredi Fermat mungkin adalah penemu yang pertama. Namun, Fermat tidak menrbitkan karya tulisnya. Pada saat yang sama, Rene Descartes mengembangkan sistem analisis geometri dan pada tahun 1637 ia menerbitkan secara khusus hasil-hasil temuannya. Oleh karean itu Descartes dianggap dikaitkan dengan penemuan bidang XY yang disebut koordinat kartesius. sistem koordinat juga sudah digunakan oleh masyarakat mesir kuno sejak 2000 tahun sebelumnya.
+
+Koordinat kertesius digunakan untuk menentukan letak titik-titk, menggunakan sepasang variabel (x, y). Titik(0, 0) disebut sebagai origin atau titik asal. Descartes menyarankan menggunakan huruf x dan y sebagai variabel, dan huruf lain digunakan sebagai angka, seperti pada persamaan y=ax^2 + bx + c. Sumbu-sumbu yang digunakan, berorientasi berlawanan arah jarum jam.
+
+Grafik fungsi memiliki kaitan yang erat dengan bidang kartesius, sehingga ketika fungsi memiliki bentuk yang mudah diidentifikasi seperti linier, parabola, gelombang, parabola, dan bentuk 'S'.
+
+Setiap titik-titik yang ada pada bidang kartesius dapat dihubungkan dengan cara menarik garis luru dari satu titik ke titik yang lain dan bisa sampai merepresentasikan bentuk 2D.
