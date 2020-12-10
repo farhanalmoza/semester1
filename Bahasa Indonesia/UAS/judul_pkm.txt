@@ -1,1 +1,18 @@
-Eventtaria Aplikasi untuk Menyebarkan dan Menemukan Informasi Acara yang Diselenggarakan
+Eventtaria Aplikasi untuk Mempromosikan dan Mendapatkan Informasi Acara yang Diselenggarakan
+
+Ringkasan:
+- penyelenggara hanya mempromosikan acaranya melalui media sosial dan papan iklan di pinggir jalan
+- Kebanyak informasi yang didapat tentang event melalui orang lain atau langsung mengunjungin akun media sosialnya
+- di media sosial terlalu banyak informasi yang lain, sehingga penyebaran informasi event menjadi lebih terbatas
+- pencari event kesulitan untuk menemukan acara yang diinginkan
+
+- dengan adanya eventtaria, promosi event menjadi lebih terarah
+- proses pendaftaran dan mempromosikan event tidak akan melalui proses yang ribet
+- informasi event bisa disajikan dengan lebih jelas dan rinci
+- pencari event menjadi lebih mudah untuk menemukan acara yang diinginkan
+- mau mendaftar event yang mana, kapan, dimana, dan berapa harga tiketnya
+
+- melalui aplikasi ini pencari event bisa langsung check in dan membeli tiketnya apabila event memang berbayar
+- pembayaran bisa melalui virtual account bank, alfa group, dan indomaret
+- penyelenggara event bisa mencairkan uang dari hasil penjualan tiket melalui berbagai bank
+- pengguna yang sudah menaftarkan diri di sebuah event akan otomatis mendapat notifikasi pengingatn dari event tersebut
